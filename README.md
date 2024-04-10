@@ -4,6 +4,8 @@
 
 Hello World in all possible programming languages
 
+Edited by Samantha! This code is helpful to learn code!
+
 ## Aim
 
 This repository should eventually contain the famous "Hello World" program in all the programming languages possible...
